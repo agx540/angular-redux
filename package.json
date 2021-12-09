@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular-redux/store": "^9.0.0",
+    "@angular/cli": "^9.0.0"
+  }
+}
